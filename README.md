@@ -32,6 +32,46 @@ To assess portfolio quality, loans are categorized as:
 •	Good Loans: Loans in "Fully Paid" or "Current" status.
 
 •	Bad Loans: Loans marked as "Charged Off."
+
 ### Good Loan Metrics
 Percentage and count of applications, funded amounts, and repayments received for Good Loans.
+
+### Bad Loan Metrics
+
+Percentage and count of applications, funded amounts, and repayments received for Bad Loans.
+### Dashboard Layouts
+
+### Dashboard 1: Summary
+
+A high-level summary of overall bank loan KPIs with Good and Bad Loan comparisons to monitor portfolio health and performance over time.
+
+### Dashboard 2: Overview
+
+Comprehensive visualizations of critical metrics:
+
+•	Monthly Trends: A line chart showing trends in loan applications, funded amounts, and repayments.
+
+•	Regional Analysis: Filled map showing distribution by state.
+
+•	Loan Term Breakdown: Donut chart highlighting the distribution across different loan terms.
+
+•	Employment Length Analysis: Bar chart assessing metrics across borrower employment lengths
+
+•	Loan Purpose Analysis: Bar chart showing loan distributions by purpose (e.g., debt consolidation).
+
+•	Home Ownership Analysis: Tree map categorized by home ownership status.
+
+### Dashboard 3: Details
+
+A detailed view allowing access to all loan data, borrower profiles, and loan status indicators for deeper analysis.
+### SQL Queries
+
+The SQL queries used in this project are organized by key metrics and KPI requirements. Key queries include:
+
+•	Total Loan Applications, Funded Amount, Amount Received, and Average Interest Rate.
+
+•	Good and Bad Loan categorization.
+
+•	Monthly, regional, and purpose-based aggregations.
+
 

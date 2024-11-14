@@ -40,7 +40,8 @@ Percentage and count of applications, funded amounts, and repayments received fo
 
 Percentage and count of applications, funded amounts, and repayments received for Bad Loans.
 ### Dashboard Layouts
-
+### Dashboard Link
+- <a href="https://public.tableau.com/app/profile/raja.srikar.vihar.visam8029/viz/BankLoanReportSummary_17315410826080/SUMMARY" >Dataset </a>
 ### Dashboard 1: Summary
 
 A high-level summary of overall bank loan KPIs with Good and Bad Loan comparisons to monitor portfolio health and performance over time.

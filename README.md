@@ -3,12 +3,10 @@
 
 The Bank Loan Report project is designed to provide a comprehensive view of loan performance across various metrics, enabling data-driven decision-making and strategic planning for lending activities. This report includes metrics for loan applications, funding amounts, repayment amounts, interest rates, debt-to-income ratios, and good/bad loan classifications, broken down by monthly trends, regional analysis, loan terms, and borrower attributes.
 ## Objectives
-This project focuses on:
+This project focused on:
 
 •	Creating insights into key loan-related metrics and identifying trends to inform lending strategies.
-
 •	Distinguishing between 'Good Loans' and 'Bad Loans' to assess portfolio health and mitigate risks.
-
 •	Visualizing monthly trends, regional distributions, loan term breakdowns, employment history impacts, and loan purpose distributions.
 ## Key Performance Indicators (KPIs)
 The report assesses the following KPIs for bank loans:

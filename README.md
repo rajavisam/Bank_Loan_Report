@@ -1,5 +1,6 @@
 # Bank_Loan_Report
-##Project Overview
+## Project Overview
+
 The Bank Loan Report project is designed to provide a comprehensive view of loan performance across various metrics, enabling data-driven decision-making and strategic planning for lending activities. This report includes metrics for loan applications, funding amounts, repayment amounts, interest rates, debt-to-income ratios, and good/bad loan classifications, broken down by monthly trends, regional analysis, loan terms, and borrower attributes.
 ## Objectives
 This project focuses on:
@@ -12,6 +13,7 @@ This project focuses on:
 ## Key Performance Indicators (KPIs)
 The report assesses the following KPIs for bank loans:
 ### General Loan Metrics
+
 •	Total Loan Applications: Count of all loan applications tracked Month-to-Date (MTD) and Month-over-Month (MoM).
 •	Total Funded Amount: Total amount disbursed, with MTD and MoM tracking.
 •	Total Amount Received: Total repayments received, with MTD and MoM tracking.
